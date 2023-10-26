@@ -1,5 +1,5 @@
 # LLM-QLM
-The official repository for paper [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](), Shengyao Zhuang, Bing Liu, Bevan Koopman, and Guido Zuccon, EMNLP2023 finding.
+The official repository for paper [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://arxiv.org/pdf/2310.13243.pdf), Shengyao Zhuang, Bing Liu, Bevan Koopman, and Guido Zuccon, EMNLP2023 finding.
 ## Requriements
 - Python 3.10
 - pyserini 0.21.0
